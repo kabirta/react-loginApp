@@ -10,7 +10,7 @@ import ForgotPassword from './pages/ForgotPassword';
 import SignIn from './pages/SignIn';
 import SignUp from './pages/SignUp';
 
-export const serverUrl = "http://localhost:8000";
+export const serverUrl = " https://react-loginapp-backend.onrender.com";
 
 function App() {
   return (
